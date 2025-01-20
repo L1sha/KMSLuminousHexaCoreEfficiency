@@ -22,7 +22,7 @@ Features
 Future Plan
 - N/A
 
-개발 기간
+개발 History
 - 1차 (Matlab code) : 23년 여름 6차 전직 업데이트
 - 2차 (C++ Migration) : 23년 겨울 마스터리 코어 추가 업데이트
 - 3차 (C++ Refactoring) : 24년 겨울 마스터리 코어 추가 업데이트
